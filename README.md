@@ -1,1 +1,1 @@
-# armsStore
+# ArmsStore
